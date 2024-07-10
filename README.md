@@ -14,6 +14,11 @@ The Crop Production Analysis in India project aims to analyze historical crop pr
 - Predictive Modeling
 - Conclusion
 
+### Tools and Technologies
+- Programming Languages: Python, SQL
+- Software/Platforms: Jupyter Notebook
+- Libraries pandas, numpy, matplotlib, seaborn, scikit-learn  
+
 ### Project Goals
 - Perform ETL (Extract, Transform, Load) processes on Amazon sales data.
 - Clean and preprocess the data for analysis.
