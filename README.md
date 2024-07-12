@@ -126,9 +126,5 @@ print(f"R^2 Score: {r2}")
 ### Conclusion
 The Crop Production Analysis project provides valuable insights into the agricultural landscape of India. By analyzing historical data and building predictive models, the project aims to aid in decision-making processes and improve crop production strategies.
 
----
-
-Feel free to modify any section to better fit your project specifics and preferences!
-
 
 
